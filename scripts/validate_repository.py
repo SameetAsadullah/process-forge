@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate layout, generated files, and C/C++ syntax for the systems lab."""
+"""Validate layout, generated files, and C/C++ syntax for the systems collection."""
 
 from __future__ import annotations
 
@@ -10,7 +10,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-EXERCISES = (
+IMPLEMENTATIONS = (
     "processes/command-line-arguments", "processes/fork-factorial",
     "processes/fork-array-sorting", "processes/exec-string-reversal",
     "ipc/unnamed-pipes", "ipc/named-pipes",
@@ -31,7 +31,7 @@ def main() -> int:
     if not compiler:
         errors.append("no C++ compiler found")
 
-    for relative in EXERCISES:
+    for relative in IMPLEMENTATIONS:
         directory = ROOT / relative
         if not (directory / "README.md").is_file():
             errors.append(f"missing README: {relative}")
@@ -59,7 +59,7 @@ def main() -> int:
             print(f"- {error}")
         return 1
 
-    print(f"Validated {len(EXERCISES)} systems exercises.")
+    print(f"Validated {len(IMPLEMENTATIONS)} systems implementations.")
     return 0
 
 

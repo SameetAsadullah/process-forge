@@ -1,12 +1,12 @@
 # Systems and Concurrency
 
-A curated C/C++ lab covering Unix processes, program execution, inter-process communication, POSIX threads, synchronization, and a small shell implementation.
+A curated C/C++ systems collection covering Unix processes, program execution, inter-process communication, POSIX threads, synchronization, and a small shell implementation.
 
-The programs remain close to their original learning implementations. This repository organizes them by concept, preserves their provenance, and adds automated compilation checks.
+The programs remain close to their original implementations. This repository organizes them by concept, preserves their provenance, and adds automated compilation checks.
 
 ## Contents
 
-| Area | Exercises |
+| Area | Systems |
 |---|---|
 | Processes | [Command-line arguments](processes/command-line-arguments), [`fork` factorial](processes/fork-factorial), [child-process array sorting](processes/fork-array-sorting), and [`exec` string reversal](processes/exec-string-reversal) |
 | IPC | [Named pipes](ipc/named-pipes) and [unnamed pipes](ipc/unnamed-pipes) |
@@ -15,14 +15,14 @@ The programs remain close to their original learning implementations. This repos
 
 ## Platform
 
-The exercises target a POSIX environment such as Linux. Most examples can be compiled with `g++` and pthread support:
+The implementations target a POSIX environment such as Linux. Most programs can be compiled with `g++` and pthread support:
 
 ```bash
-g++ -std=c++17 -pthread main.cpp -o demo
+g++ -std=c++17 -pthread main.cpp -o program
 ```
 
-Refer to each exercise README for its exact file layout and usage.
+Refer to each component README for its exact file layout and usage.
 
 ## Provenance and licensing
 
-See [PROVENANCE.md](PROVENANCE.md) for the original repositories. Per-project license files are retained where they existed; no blanket license is applied to previously unlicensed exercises.
+See [PROVENANCE.md](PROVENANCE.md) for the original repositories. Per-project license files are retained where they existed; no blanket license is applied to previously unlicensed programs.
