@@ -8,10 +8,10 @@ The programs remain close to their original learning implementations. This repos
 
 | Area | Exercises |
 |---|---|
-| Processes | Command-line arguments, `fork`, child-process array sorting, and `exec` |
-| IPC | Named and unnamed pipes |
-| Concurrency | Producer-consumer, mutex exercises, thread joins, and threaded Sudoku validation |
-| Shell | A small Unix-style shell implementation |
+| Processes | [Command-line arguments](processes/command-line-arguments), [`fork` factorial](processes/fork-factorial), [child-process array sorting](processes/fork-array-sorting), and [`exec` string reversal](processes/exec-string-reversal) |
+| IPC | [Named pipes](ipc/named-pipes) and [unnamed pipes](ipc/unnamed-pipes) |
+| Concurrency | [Producer-consumer](concurrency/producer-consumer), [ticket-selling mutex](concurrency/ticket-selling), [withdraw/deposit mutex](concurrency/withdraw-deposit), [thread joins](concurrency/thread-joins), and [threaded Sudoku validation](concurrency/threaded-sudoku-validator) |
+| Shell | The [`gbsh` Unix-style shell](shell/gbsh) |
 
 ## Platform
 
