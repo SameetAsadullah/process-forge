@@ -1,7 +1,7 @@
 <h1 align="center">Producer Consumer Problem Using Semaphores</h1>
 
 ### Description
-A simple `C++ Program` to solve `Producer Consumer Problem` using `Threads and Semaphores`.
+A bounded-buffer producer-consumer implementation coordinated with POSIX threads and semaphores.
 
 ### Manual
 1) Use the following command to `Compile the code`:

@@ -1,7 +1,7 @@
 <h1 align="center">Ticket Selling Problem Using Mutex</h1>
 
 ### Description
-A simple `C++ Program` to solve `Ticket Selling Problem` using `Threads and Mutex Lock`.
+A multithreaded C++ ticket-allocation simulation with mutex-protected shared state.
 
 ### Manual
 1) Use the following command to `Compile the code`:

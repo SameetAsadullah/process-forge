@@ -1,7 +1,7 @@
 <h1 align="center">Reverse and Uppercase String Using Thread Joins</h1>
 
 ### Description
-A simple `C++ Program` to reverse the string and convert it into uppercase letters using `Multiple Threads and Joins`. There are two variations of the program, you can execute whichever you want:
+Two C++ thread pipelines that reverse and uppercase text while coordinating execution order with joins:
 1) With using pthread_t global variables `(main.cpp)`
 2) Without using pthread_t global variables `(main1.cpp)`
 

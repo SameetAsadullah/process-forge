@@ -1,7 +1,7 @@
 <h1 align="center">Withdraw Deposit Problem Using Mutex</h1>
 
 ### Description
-A simple `C++ Program` to solve `Withdraw Deposit Problem` using `Threads and Mutex Lock`.
+A threaded C++ transaction simulation that coordinates concurrent withdrawals and deposits with a mutex.
 
 ### Manual
 1) Use the following command to `Compile the code`:

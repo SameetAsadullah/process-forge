@@ -1,7 +1,7 @@
 <h1 align="center">Linux gbsh Shell Implementation</h1>
 
 ### Description
-`Linux Shell` coded in `C++ Language` which performs some of the features found in typical shells, like the bash (Bourne Again Shell) or csh (C-Shell).
+A C++ Unix-style shell with command execution and core interactive behaviors modeled after established shells such as Bash and C shell.
 
 ### Commands Implemented
 - ps

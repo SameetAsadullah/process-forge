@@ -1,7 +1,7 @@
 <h1 align="center">Reverse String Using Execlp</h1>
 
 ### Description
-A simple `C++ Program` to reverse the given string using `Execlp System Call`.
+A C++ process-control implementation that delegates string reversal to a separate executable through `execlp`.
 
 ### Manual
 1) Use the following commands to `Compile the Code`:

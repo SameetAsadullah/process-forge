@@ -1,7 +1,7 @@
 <h1 align="center">Inter Process Communication Using Unnamed Pipes</h1>
 
 ### Description
-A simple `C++ Program` to simulate `Inter-Process Communication` using `Unnamed Pipes`.
+A C++ inter-process communication implementation using POSIX anonymous pipes.
 
 ### Manual
 1) Use the following command to `Compile the Code`:

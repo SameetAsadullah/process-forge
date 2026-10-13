@@ -1,7 +1,7 @@
 <h1 align="center">Find Factorial Using Fork</h1>
 
 ### Description
-A simple `C++ Program` to find `Factorial` of given number using `Fork System Call`. There are `Two Variations` of the code, you can execute whichever variation you want.
+Two C++ process variants that compute a factorial across parent and child execution paths created with `fork`.
 1) Takes `Input in Parent Process` and calculates factorial in child process `(main)`
 2) Takes `Input in Child Process` and calculates factorial in parent process `(main0)`
 

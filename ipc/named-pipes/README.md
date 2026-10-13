@@ -1,7 +1,7 @@
 <h1 align="center">Inter Process Communication Using Named Pipes</h1>
 
 ### Description
-A simple `C++ Program` to simulate `Inter-Process Communication` using `Named Pipes`.
+A C++ inter-process communication implementation using POSIX named pipes (FIFOs).
 
 ### Manual
 1) Open `First Terminal` and use following commands to `Compile and Run First Code`:

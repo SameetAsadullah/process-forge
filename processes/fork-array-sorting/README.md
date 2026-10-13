@@ -1,7 +1,7 @@
 <h1 align="center">Sort Two Arrays Using Fork</h1>
 
 ### Description
-A simple `C++ Program` to sort two arrays in `Two Different Child Processes` using `Fork System Call`. Parent processes takes input of the arrays.
+A C++ process implementation that sorts two input arrays concurrently in separate child processes created with `fork`.
 
 ### Manual
 1) Use the following command to `Compile the Code`:

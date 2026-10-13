@@ -1,7 +1,7 @@
 <h1 align="center">Count and Display Command Line Arguments</h1>
 
 ### Description
-A simple `C++ Program` to count and display `Command Line Arguments`.
+A C++ process utility that enumerates and reports command-line arguments.
 
 
 ### Manual
