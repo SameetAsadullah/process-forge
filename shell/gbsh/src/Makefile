@@ -9,5 +9,8 @@ all: gbsh
 gbsh: $(OBJ)
 	$(CC) $(CFLAGS) -o gbsh $(OBJ)
 
-%.o: %.c
+%.o: %.cpp
 	$(CC) $(CFLAGS) -c $<
+
+clean:
+	rm -f gbsh $(OBJ)

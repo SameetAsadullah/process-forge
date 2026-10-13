@@ -21,7 +21,7 @@ int main () {
 	else if (pID == 0) {
 		cout << "Child Process Starts:" << endl;
 		cout << "	My PID= " << getpid() << ", My PPID= " << getppid() << endl;
-		execlp ("./reverseString" , "reverseString" , "Sameet" , NULL); //or dont pass first argument as reverseString and direct pass Sameet and in reverseString.cpp reverse arr[0]
+		execlp ("./reverse-string" , "reverse-string" , "Sameet" , NULL); //or dont pass first argument and reverse arr[0]
 		cout << "Exec Failed" << endl;	
 	}
 
@@ -32,4 +32,3 @@ int main () {
 
 	return 0;
 }
-

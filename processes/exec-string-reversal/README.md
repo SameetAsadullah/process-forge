@@ -6,15 +6,15 @@ A C++ process-control implementation that delegates string reversal to a separat
 ### Manual
 1) Use the following commands to `Compile the Code`:
     ```
-    g++ reverseString.cpp -o reverseString
+    g++ reverse_string.cpp -o reverse-string
     ```
     ```
-    g++ main.cpp
+    g++ main.cpp -o string-reversal
     ```
 
 2) Use the following command to `Run the Code`:
     ```
-    ./a.out
+    ./string-reversal
     ```
     
 ### Working Screenshot

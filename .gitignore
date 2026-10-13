@@ -1,5 +1,11 @@
 *.o
 *.out
+MYPIPE*
+peer-a
+peer-b
+reverse-string
+string-reversal
+/shell/gbsh/src/gbsh
 *.exe
 build/
 .vscode/
