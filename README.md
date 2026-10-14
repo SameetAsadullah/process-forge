@@ -1,8 +1,8 @@
-# Systems and Concurrency
+# Process Forge
 
-A curated C/C++ systems collection covering Unix processes, program execution, inter-process communication, POSIX threads, synchronization, and a small shell implementation.
+A C/C++ systems repository covering Unix processes, program execution, inter-process communication, POSIX threads, synchronization, and a Unix-style shell.
 
-The programs remain close to their original implementations. This repository organizes them by concept, preserves their provenance, and adds automated compilation checks.
+The code is organized by subsystem, with component-level usage guidance and automated compilation checks.
 
 ## Contents
 
@@ -25,4 +25,4 @@ Refer to each component README for its exact file layout and usage.
 
 ## Provenance and licensing
 
-See [PROVENANCE.md](PROVENANCE.md) for the original repositories. Per-project license files are retained where they existed; no blanket license is applied to previously unlicensed programs.
+See [PROVENANCE.md](PROVENANCE.md) for source history and licensing. Existing component licenses are retained; no blanket license is applied to previously unlicensed programs.

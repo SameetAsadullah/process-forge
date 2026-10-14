@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate layout, generated files, and C/C++ syntax for the systems collection."""
+"""Validate layout, generated files, and C/C++ syntax for POSIX systems code."""
 
 from __future__ import annotations
 
