@@ -15,5 +15,5 @@ Run `./peer-a` and `./peer-b` in separate terminals. The programs create their F
     
 ## Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Inter-Process-Communication-Using-Named-Pipes/blob/main/extras/working-ss.png" alt = "" width="900px"/>
+  <img src = "extras/working-ss.png" alt = "" width="900px"/>
 </div>

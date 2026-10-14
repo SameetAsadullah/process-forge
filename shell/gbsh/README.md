@@ -34,5 +34,5 @@ A C++ Unix-style shell with command execution and core interactive behaviors mod
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Linux-gbsh-Shell-Implementation/blob/main/extras/working-ss.png" alt = "" width="700px"/>
+  <img src = "extras/working-ss.png" alt = "" width="700px"/>
 </div>

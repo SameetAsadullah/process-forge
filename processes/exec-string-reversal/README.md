@@ -19,5 +19,5 @@ A C++ process-control implementation that delegates string reversal to a separat
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Reverse-String-Using-Execlp/blob/main/extras/working-ss.png" alt = "" width="700px"/>
+  <img src = "extras/working-ss.png" alt = "" width="700px"/>
 </div>

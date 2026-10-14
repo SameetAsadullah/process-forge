@@ -17,5 +17,5 @@ A C++ process utility that enumerates and reports command-line arguments.
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Count-and-Display-Command-Line-Arguments/blob/main/extras/working-ss.png" alt = "" width="700px"/>
+  <img src = "extras/working-ss.png" alt = "" width="700px"/>
 </div>

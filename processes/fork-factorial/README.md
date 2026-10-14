@@ -18,5 +18,5 @@ Two C++ process variants that compute a factorial across parent and child execut
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Calculate-Factorial-Using-Fork/blob/main/extras/working-ss.png" alt = "" width="700px"/>
+  <img src = "extras/working-ss.png" alt = "" width="700px"/>
 </div>

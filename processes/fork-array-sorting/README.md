@@ -16,5 +16,5 @@ A C++ process implementation that sorts two input arrays concurrently in separat
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Sort-Arrays-Using-Fork/blob/main/extras/working-ss.png" alt = "" width="700px"/>
+  <img src = "extras/working-ss.png" alt = "" width="700px"/>
 </div>

@@ -16,5 +16,5 @@ A C++ inter-process communication implementation using POSIX anonymous pipes.
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Inter-Process-Communication-Using-Unnamed-Pipes/blob/main/extras/working-ss.png" alt = "" width="700px"/>
+  <img src = "extras/working-ss.png" alt = "" width="700px"/>
 </div>

@@ -16,5 +16,5 @@ A multithreaded C++ ticket-allocation simulation with mutex-protected shared sta
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Ticket-Selling-Problem-Using-Mutex/blob/main/extras/working-ss.png" alt = "" width="700px"/>
+  <img src = "extras/working-ss.png" alt = "" width="700px"/>
 </div>

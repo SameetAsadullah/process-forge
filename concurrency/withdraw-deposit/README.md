@@ -16,5 +16,5 @@ A threaded C++ transaction simulation that coordinates concurrent withdrawals an
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Withdraw-Deposit-Problem-Using-Mutex/blob/main/extras/working-ss.png" alt = "" width="700px"/>
+  <img src = "extras/working-ss.png" alt = "" width="700px"/>
 </div>
